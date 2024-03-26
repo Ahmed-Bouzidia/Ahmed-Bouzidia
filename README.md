@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @Ahmed-Bouzidia ,I am a third year student in computer science at the University of Cergy-Paris. 
-- 👀 I’m interested in programation 
-- 🌱 I’m currently learning  computer science 
-
-- 📫 How to reach me ...
-
-<!---
-Ahmed-Bouzidia/Ahmed-Bouzidia is a ✨ special ✨ repository because its `README.md` 
---->
+- 👋 Hello, I'm @Ahmed-Bouzidia, a graduate from the University of Cergy-Paris with a bachelor's degree in Computer Science.
+- 👀 I'm passionate about programming.
+- 🌱 Currently, I'm pursuing a Master's degree in Computer Science and Information Systems elsewhere.
+- 📫 How to reach me...
+I'm currently enrolled in a Master's program specializing in Computer Science and Information Systems, and I have a keen interest in coding.
